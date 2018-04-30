@@ -14,7 +14,7 @@ Unfortunately, when I ran `python` in the command line, it still showed up as Py
 
 I got frustrated because it *CLEARLY* states that I have Python 3.5 on file and so there should be no reason of why when I run `python` to check to see the current version that I'm running on, that I should get version 2.7. So I looked this up again using different keywords and I found yet another solution on the Cloud9 support community. It stated that I should go into my user bin `cd usr/bin`, then run `sudo rm python`, then run `sudo ln -s python3.5 python`. I then checked to see
 
-![Python 3.5](../images/python3.5.jpg)
+![Python 3.5](../images/python_3.5.jpg)
 
 ## Takeaways 
 * Persevere
