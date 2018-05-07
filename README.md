@@ -4,4 +4,5 @@
 * ### Entry 02:
 * ### [Entry 03:](entries/entry_03.md)
 * ### Entry 04:
-* ### [Entry 05](entries/entry_05.md)
+* ### [Entry 05:](entries/entry_05.md)
+* ### [Entry 06:](entries/entry_06.md)
