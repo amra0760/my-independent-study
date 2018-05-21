@@ -17,7 +17,7 @@ As you can see I dug myself into quite a hole here and I know most people would 
 
 I never have really done this, usually it's me looking at other people's questions and answers and then altering it to my scenario, but this time I couldn't do that. So I took the liberty of making myself a stack overflow account and purposed a question! I never really expected that I would get an answer do the THOUSANDS of questions that go by each day, but shortly after I DID!
 
-![Stack OverFlow](../images/stackoverflow responses.JPG) 
+![Stack OverFlow](../images/stackoverflowresponses.JPG) 
 
 As shown my answer seemed to be that I was in too deep and that I should have started with Django first because that was designed to make web development much easier. I took this suggestion and started on my Django tutorial, and so far it is isn't looking that great. Since I'm running it on Cloud9, a lot of things are different such as when I run it. I've restarted the tutorial several times to see where I went wrong and couldn't find anything. Every time I try to run it, it tells me 'localhost server not available'. I looked up on how to set up Django on Cloud9 and it helped a bit, but I still wasn't able to run it properly. Which means it's time to ask the internet again. Unfortunately in stackoverflow, you only get one question a day so that their servers don't crash and so I guess I'll ask tomorrow.
 
