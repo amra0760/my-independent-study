@@ -7,3 +7,4 @@
 * ### [Entry 05:](entries/entry_05.md)
 * ### Entry 06:
 * ### [Entry 07:](entries/entry_07.md)
+* ### [Entry 08:](entries/entry_08.md)
